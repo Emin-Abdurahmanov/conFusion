@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
@@ -32,4 +35,8 @@ address{
     font-size:80%;
     margin:0px;
     color:#c7cbf3;
+}
+#reservelink{
+    text-decoration: none;
+    color: black;
 }
