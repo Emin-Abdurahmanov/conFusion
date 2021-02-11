@@ -46,6 +46,7 @@ address{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
 .carousel {
     background:#512DA8;
 }
@@ -60,4 +61,10 @@ address{
     left: 0;
     min-height: 300px;
 }
-.modal
+
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;  
+}
